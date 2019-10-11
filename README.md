@@ -8,7 +8,7 @@ I wrote some useless drozer-modules...
 
     dz> module repository create [/absolute_path/repositories]
 
-or change .drozer_config file  (C:\Users\root\.drozer_config)
+or change .drozer_config file  (C:\Users\root\\.drozer_config)
 
     [repositories]  
     C|\Temp\modules  =  C:\Temp\modules
