@@ -10,8 +10,8 @@ I wrote some useless drozer-modules...
 
 or change .drozer_config file  (C:\Users\root\.drozer_config)
 
-```[repositories]  
-C|\Temp\modules  =  C:\Temp\modules```
+    [repositories]  
+    C|\Temp\modules  =  C:\Temp\modules
 
 * Copy all files in 'modules' folder into 'repository' Folder
 
