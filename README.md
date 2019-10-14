@@ -21,11 +21,11 @@ or change .drozer_config file  (C:\Users\root\\.drozer_config)
 
 ## Run modules
 
-* vuln.attack.findips
+* vuln.attack.findleak
 
-Match IP in .apk file
+Match leakage in .apk file(support Url,IP,ID cards,phone,emails)
 
-    dz> run vuln.attack.findips -a com.android.chrome
+    dz> run vuln.attack.findleak -a com.android.chrome
 
 * vuln.attack.components
 
